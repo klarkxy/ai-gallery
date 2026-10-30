@@ -1,5 +1,5 @@
 ---
-name: ai-reference-library
+name: ai-gallery
 description: |
   Fetch pose, depth, costume and face reference images from AI reference galleries for GPT Image,
   Nano Banana, ComfyUI, H3 and other generation tools. Libraries: ギア POSE-DB-01 (pose mannequins),

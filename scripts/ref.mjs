@@ -8,8 +8,8 @@ import fs from 'node:fs';
 import path from 'node:path';
 import os from 'node:os';
 
-const UA = 'ai-reference-library-skill/1.2';
-const CACHE_DIR = path.join(os.tmpdir(), 'ai-reference-library-cache');
+const UA = 'ai-gallery-skill/1.3';
+const CACHE_DIR = path.join(os.tmpdir(), 'ai-gallery-cache');
 const TTL_MS = 24 * 3600 * 1000;
 const DELAY_MS = 1500;
 const REF_LOG = '_refs.jsonl';
