@@ -6,7 +6,7 @@
 
 ![demo](assets/demo.jpg)
 
-同一角色的四个姿势，姿势参考取自 `pose` 库（P015 / P001 / P061 / P007），由 GPT Image 生成。
+同一角色的四个姿势、四套服装：姿势取自 `pose` 库（P015 / P001 / P061 / P007），服装取自 `costume` 库（WIN-0023 / SPR-0008 / SPR-0199 / PTY-0007），由 GPT Image 生成。
 
 ## 安装
 
