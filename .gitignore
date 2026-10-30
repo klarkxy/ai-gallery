@@ -1,0 +1,18 @@
+# 取图产物：参考图只作生成输入，不入库
+refs/
+work/
+_*.jsonl
+
+# 分发构建产物
+dist/
+
+# 依赖与日志
+node_modules/
+*.log
+
+# 编辑器与系统
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
